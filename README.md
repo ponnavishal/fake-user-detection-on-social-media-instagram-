@@ -8,7 +8,6 @@ A machine learning-based solution to detect fake profiles in social networks usi
 <img width="1907" height="1105" alt="Screenshot 2026-03-11 012813" src="https://github.com/user-attachments/assets/b5908893-7768-4971-b72d-3403c44d9bae" />
 
 
-!WhatsApp Image 2026-02-25 at 8 29 09 PM](https://github.com/user-attachments/assets/1548ba8e-54ed-4650-8f55-5a19173a6451)
 
 
 ## 📋 Table of Contents
